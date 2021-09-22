@@ -42,8 +42,8 @@
   },
   "devDependencies": {
     "chai": "^4.1.0",
-    "eslint": "^4.1.1",
+    "eslint": "^7.0.0",
     "mocha": "^3.4.2",
-    "standard-version": "^4.2.0"
+    "standard-version": "^7.1.0"
   }
 }
